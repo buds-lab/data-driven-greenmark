@@ -4,7 +4,8 @@ This repository contains the code and documentation of Singapore's Green Mark en
 
 Entries are buildings/tenants that are Green Mark certified. Green features of each certified entry were identified and labeled accordingly using a list of keywords created from the GM certification assessment criteria.
 
-For more information, please visit the [Wiki] (https://github.com/buds-lab/data-driven-greenmark/wiki).
+For more information, please visit the [Wiki][1].
 
 
 
+[1]:https://github.com/buds-lab/data-driven-greenmark/wiki
