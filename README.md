@@ -1,5 +1,5 @@
 # Dataset: Green Mark certified buildings metadata from Singapore
-[![DOI](https://zenodo.org/badge/DOI/11.1145/3560905.3567771.svg)](https://doi.org/10.1145/3560905.3567771)
+[![DOI](https://zenodo.org/badge/DOI/11.1145/3560905.3567771.svg)](https://zenodo.org/record/7198276)
 
 This repository contains the code and documentation of Singapore's Green Mark entries. This dataset consists of 3,583 entries over 17 years (2006 to 2022) extracted from the Building and Construction Authority's (BCA) [website](https://www.sleb.sg/Building/GreenMarkBuildingsDirectory).
 
